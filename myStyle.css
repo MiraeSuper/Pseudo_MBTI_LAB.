@@ -19,7 +19,7 @@ front{
     position: relative;
     display: flex;
     /*아래는 가운데정렬 코드*/
-    margin: 0 auto;
+    margin: auto;
     width: 1300px;
 }
 
@@ -62,7 +62,7 @@ body{
 
 #beforefooter{
     display: inline-flex;
-    width: 1000px;
+    width: 1300px;
     background-color: rgb(0, 0, 0);
     height: 330px;
 }
